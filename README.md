@@ -1,1 +1,2 @@
-# Como-Cuidar-do-Seu-Pet
+Esse pequeno e simples site foi criado com meu conhecimento iniciante de Bootstrap, meu intuito foi criar uma página que servisse de ajuda para pessoas que querem adotar pets mas ainda não sabem os cuidados com o animalzinho. 
+No projeto eu treinei a responsividade, personalizei o background com um tema, adicionei alguns links direcionados para a wikiHOW, usei ícone para aba title, adicionei caixa de pesquisa sem funcionalidade JS ainda.
